@@ -12,7 +12,7 @@ public class Chques1{
         // In here i have used charAt to get the specific index from a index not that chatAt return a char .
         char firstletnameString = name.charAt(0);
         char lastletsuString = sure_name.charAt(sure_name.length()-1);
-        System.out.println("The 1st letter of your name is \""+firstletnameString+"\" and the last latter of your sure name is \""+lastletsuString+"\"");
+        System.out.println("The 1st letter of your name is \""+firstletnameString+"\" and the last latter of your sure name is \""+lastletsuString+"\".");
         input.close();
 
 
