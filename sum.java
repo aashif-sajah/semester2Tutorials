@@ -9,6 +9,7 @@ public class sum {
         int y =scan.nextInt();
         int ttl = x + y;
         System.out.println(ttl);
+        scan.close();
 
     }
 }
